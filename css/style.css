@@ -1,0 +1,18 @@
+.team-name {
+  font-weight: bold;
+  color: black !important;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.logo-detail {
+  width: 150px;
+  height: 150px;
+}
+
+.margintop20 {
+  margin-top: 20px;
+}

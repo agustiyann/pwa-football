@@ -1,0 +1,21 @@
+{
+  "name": "Cafe Futsal",
+  "short_name": "My PWA",
+  "description": "Aplikasi PWA pertama saya",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#388e3c",
+  "theme_color": "#388e3c",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
